@@ -6,6 +6,8 @@ Whether you want to spy on your friend's house on a server, or you want to keep 
 - If you are using the modification for 1.14.4 you will need to use MMP UUID 1.2.0 for "General Use"  
 - If you are using the modification for 1.15.2 you will need to use MMP UUID 1.3.0 for "General Use"  
 
+https://github.com/northwesttrees-gaming/MMP-UUID-API
+
 ## Minecraft Support for 1.x.x
 Simply put newer versions will be supported for sure, but anything older is not possible with MCreator and only newer versions will get new features.
 
