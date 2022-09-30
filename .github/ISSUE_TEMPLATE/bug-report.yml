@@ -1,0 +1,78 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+ - type: dropdown
+   attributes:
+    label: Mod build
+    description: What version are you using of our mod?
+    options:
+     - 4.2.0
+     - 4.1.0
+     - 4.0.0
+     - 3.0.0
+     - Not build related.
+   validations:
+     required: true
+ - type: dropdown
+   attributes:
+    label: Minecraft build
+    description: What version are you using of our mod?
+    options:
+     - 1.18.2
+     - 1.17.1
+     - 1.16.5
+     - 1.15.2
+     - 1.14.4
+     - Not build related.
+   validations:
+     required: true
+ - type: dropdown
+   attributes:
+    label: Game Type
+    description: What version are you using of our mod?
+    options:
+     - Singleplayer
+     - Multiplayer/LAN
+     - Both
+     - Not game type related.
+   validations:
+     required: true
+ - type: dropdown
+   attributes:
+    label: Game Mode
+    description: What version are you using of our mod?
+    options:
+     - Survial
+     - Adventure
+     - Creative
+     - Spectator
+     - Not gamemode related.
+   validations:
+     required: true
+ - type: textarea
+   attributes:
+    label: Issue description
+    description: Explain clearly and unambiguously what went wrong
+    placeholder: Tell us here about the bug/problem
+   validations:
+    required: true
+ - type: textarea
+   attributes:
+    label: How to reproduce this issue?
+    description: Try to explain what you did for the bug to occur. A good explanation of steps to reproduce helps us locate the bug faster. If applicable, add screenshots to help explain your problem.
+    placeholder: |
+      Step 1: ...
+      Step 2: ...
+      ...
+   validations:
+     required: true
+ - type: textarea
+   attributes:
+    label: Crash Report
+    description: |
+      If applicable, include crash report file here, attach the file do not paste the text.
+    placeholder: Attach the crash report here.
+   validations:
+    required: false
