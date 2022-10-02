@@ -21,6 +21,9 @@ Simply put newer versions will be supported for sure, but anything older is not 
 - Screwdriver Item
 - First Aid Kits & Fabric
 
+## Suggest Feature
+You can suggest a feature on the discussions page [here](https://github.com/northwesttrees-gaming/CCTV-Craft/discussions/categories/feature-request).
+
 ## Official Sites
 MCREATOR PAGE : https://mcreator.net/modification/61192/cctv-craft  
 CURSEFORGE PAGE : https://www.curseforge.com/minecraft/mc-mods/cctv-craft
