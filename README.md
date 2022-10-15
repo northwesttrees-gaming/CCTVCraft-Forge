@@ -18,7 +18,6 @@ Simply put newer versions will be supported for sure, but anything older is not 
 - Turrets
 - Explosives and Metal Detectors
 - Drones
-- Screwdriver Item
 - First Aid Kits & Fabric
 
 ## 💡 Suggest Feature
