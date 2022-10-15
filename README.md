@@ -12,13 +12,22 @@ https://github.com/northwesttrees-gaming/MMP-UUID-API
 Simply put newer versions will be supported for sure, but anything older is not possible with MCreator and only newer versions will get new features.
 
 ## 📌 Planned Features
+- Drones (Coming Soon!)
 - Proximity Scanner
-- Alarm & Alarm System
-- Tracking System
+- Alarm
+- Signal Box
+- Terminal
+- Fire Extinguisher
+- First Aid Kits
+- First Aid Station
 - Turrets
-- Explosives and Metal Detectors
-- Drones
-- First Aid Kits & Fabric
+- Explosives
+- Traps
+- Metal Detectors
+- Submarine (Same idea as a regular controllable drone but in water)
+- Tracking System
+- Auto Drones (Drones that can fly around on their own)
+- More Resources
 
 ## 💡 Suggest Feature
 You can suggest a feature on the discussions page [here](https://github.com/northwesttrees-gaming/CCTV-Craft/discussions/categories/feature-request).
