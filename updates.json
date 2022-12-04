@@ -1,6 +1,7 @@
 {
   "homepage": "https://github.com/northwesttrees-gaming/CCTV-Craft",
   "1.19.2": {
+    "4.4.1": "Fixed a crash that happened only on the server-side when mining blocks with the drone.",
     "4.4.0": "Ported CCTV Craft to Minecraft 1.19.2"
   },
   "1.18.2": {
@@ -24,8 +25,8 @@
     "3.0.0": "Added three types of cameras and one type of monitor\nCameras can be linked to monitors.\nMonitors allow for the viewing of cameras\nAdded Remote Floppy used for an easy way to link cameras to monitors\nAdded Security Floppy used to manage permissions for the device\nAdded Action Floppy used to do tasks such as remove the block.\nAdded recipes and advancements" 
   },
   "promos": {
-    "1.19.2-latest": "4.4.0",
-    "1.19.2-recommended": "4.4.0",
+    "1.19.2-latest": "4.4.1",
+    "1.19.2-recommended": "4.4.1",
     "1.18.2-latest": "4.3.0",
     "1.18.2-recommended": "4.3.0",
     "1.17.1-latest": "4.1.0",
