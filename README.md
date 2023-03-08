@@ -30,7 +30,7 @@ Simply put newer versions will be supported for sure, but anything older is not 
 - More Resources
 
 ## 💡 Suggest Feature
-You can suggest a feature on the discussions page [here](https://github.com/northwesttrees-gaming/CCTV-Craft/discussions/categories/feature-request).
+You can suggest a feature on the discussions page [here](https://github.com/northwesttrees-gaming/CCTV-Craft/issues/new/choose).
 
 ## 🔗 Official Sites
 MCREATOR PAGE : https://mcreator.net/modification/61192/cctv-craft  
