@@ -1,0 +1,40 @@
+name: Feature Request
+description: Request a feature to be added or changed.
+title: "[Feature] <title>"
+labels: [New, Feature]
+body:
+- type: textarea
+  attributes:
+    label: Suggestion or Feature
+    description: A concise description of what you would like changed.
+    placeholder: |
+      example:
+        Make it so you can turn on or off devices using the monitor.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Core Features
+    description: Provide a list of things you would like this feature to have.
+    placeholder: | 
+      example:
+        - [ ] Can turn on/off cameras.
+        - [ ] Can turn on/off jammers.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Reason For Feature
+    description: List the reasons why you want the feature added.
+    placeholder: |
+      example:
+        Because it would be nice to not have to go to the camera or jammer to tun it on or off.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Attachments
+    description: Share files or URLs that can help explain what you want.
+    placeholder: Drag images or files or provide video URLS from YouTube to help explain what your looking for.
+  validations:
+    required: false
