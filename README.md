@@ -12,7 +12,6 @@ https://github.com/northwesttrees-gaming/MMP-UUID-API
 Simply put newer versions will be supported for sure, but anything older is not possible with MCreator and only newer versions will get new features.
 
 ## 📌 Planned Features
-- Drones (Coming Soon!)
 - Proximity Scanner
 - Alarm
 - Signal Box
