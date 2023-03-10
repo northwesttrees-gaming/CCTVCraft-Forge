@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/northwesttrees-gaming/CCTV-Craft/main/cameras_and_jammer.jpg)
 # CCTV Craft
 Whether you want to spy on your friend's house on a server, or you want to keep an eye on your village, CCTV Craft will provide you the tools to watch whatever you want anywhere you want. We have used MCreator to make this complex mod from the ground up. The mod is maintained by NorthWestTrees Gaming. Currently, we have limited features but we plan to add more content and release stable builds as the development goes on.
 
@@ -54,3 +55,8 @@ Newer versions do not require any dependecies but for 1.15.2 and 1.14.4 you may 
 - If you are using the modification for 1.15.2 you will need to use MMP UUID 1.3.0 for "General Use"  
 
 https://github.com/northwesttrees-gaming/MMP-UUID-API
+
+## Gallery
+![Image 1](https://github.com/northwesttrees-gaming/CCTV-Craft/blob/main/monitors.jpg)
+![Image 2](https://github.com/northwesttrees-gaming/CCTV-Craft/blob/main/chain_fence.jpg)
+![Image 3](https://github.com/northwesttrees-gaming/CCTV-Craft/blob/main/camera_view.jpg)
