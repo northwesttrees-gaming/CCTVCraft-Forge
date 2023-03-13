@@ -60,3 +60,6 @@ https://github.com/northwesttrees-gaming/MMP-UUID-API
 ![Image 1](https://github.com/northwesttrees-gaming/CCTV-Craft/blob/main/Pages/Images/electric_chain_fence.jpg)
 ![Image 2](https://github.com/northwesttrees-gaming/CCTV-Craft/blob/main/Pages/Images/cameras_and_jammer.jpg)
 ![Image 3](https://github.com/northwesttrees-gaming/CCTV-Craft/blob/main/Pages/Images/camera_view.jpg)
+
+## Videos
+Coming Soon!
