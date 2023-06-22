@@ -1,7 +1,7 @@
 {
   "homepage": "https://www.northwesttreesgaming.com/mcmods/cctv-craft",
   "1.19.4": {
-    4.5.1: "Ported the mod from 1.19.2 to 1.19.4"
+    "4.5.1": "Ported the mod from 1.19.2 to 1.19.4"
   },
   "1.19.2": {
     "4.5.0": "Added custom buttons to the monitor screens\nThe monitor connection tab now shows camera tags eg. Jammed, On, or Off\nMonitor lights now indicate if the camera is on or off\nMonitor switches now indicate if the floppy slot is full or not\nCamera names can now be updated via the monitor\nJammers now show an on/off light depending on their state\nCompacted models for monitors, cameras, jammers, and chain fence types\nFixed the monitor screen name text\nFixed the monitor screen connection text\nFixed camera zoom for North, East, South-East and North-East directions\nFixed zoom-in issue with Noth-East for the ceiling camera\nFixed monitor GUI lights not unblinking when the camera is missing\nFixed camera view overlay camera name text\nFixed overlay for drone inventory slot item and slot number text\nFixed Name USB text field adding to the last input.",
