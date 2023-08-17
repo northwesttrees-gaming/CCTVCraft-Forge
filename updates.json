@@ -1,13 +1,15 @@
 {
   "homepage": "https://www.northwesttreesgaming.com/mcmods/cctv-craft",
   "1.19.4": {
+    "4.6.3": "Applied changes from 4.6.2\nPorted 4.6.2 to Forge 1.19.4",
     "4.6.1": "Ported 4.6.0 to 1.19.4",
     "4.5.1": "Ported the mod from 1.19.2 to 1.19.4"
   },
   "1.19.2": {
+    "4.6.2": "Backported to 1.19.2\nFixed loot table for aluminum ore not working correctly.",
     "4.6.0": "Backported to 1.19.2\nAdded Aluminum Ore generation\nAdded A way to override sounds from Sound Blocks using the Alarm System.\nAdded Support for renaming Alarm Systems and Sound Blocks.\nAdded a new variable naming system to help manage NBT names in the future.\nAdded better Camera View icons when viewing cameras from monitors\nAdded blocks for Aluminum Ore, Sound Block, and Wall and Floor Alarm Systems.\nAdded items for Raw Aluminum, Copper Wire, Speaker, Aluminum Ingots and the Hand Saw\nAdded recipes for Alarm System, Raw Aluminum, Copper Wire, Sound Blocks, Speaker, and the Hand Saw\nAdded tags for Copper Wire, Aluminum Ore, Raw Aluminum, Aluminum Ingot, Speaker, Hand Saw, and Sound Blocks\nAdded Copper Wire resourced to replace Redstone Dust in recipes\nAdded block name to the message tag for Sound Blocks, Monitors, Cameras, and Jammers\nAdded on/off state to the Sound Block\nAdded on/off sound to both Jammer blocks\nAdded Permission Card support to the Sound Block\nAdded a Name USB support to the Sound Block\nAdded five Sound block alarm sounds\nAdded Sound Block and Alarm System GUIs\nAdded Out Of Rage text to monitor's connections page when a camera is out of range\nAdded remote support for cameras, monitors, and sound blocks\nAdded an easy way to update variables for Sound Blocks and Alarm Systems\nAdded distance, pitch and minimum volume control for Alarm System for even more customizability.\nAdded the drone name to 'Drone View' mode.\nUpdated Remote Floppy Disk Forge NBT tags\nUpdated the camera's Name variable to use a lowercase N instead.\nUpdated several recipes\nUpdated several recipe groups for items\nUpdated several textures for items and blocks\nUpdated the Permission Card and Remote Floppy Disk recipes\nUpdated some of the block and item textures\nRemoved old recipe unlocking system, this will be replaced using advancements\nRemoved fence gate and double fence gate AlternateRotation Forge NBT variable\nMonitors now read the new NBT variables from Remote Floppy Disks\nCapped camera view distance to fix a bug\nCamera view distance now is between 0 and 320 blocks between the monitor and camera\nMax camera distance no longer runs on world tick update, it now runs after the game rule command for it is executed\nJammers now have proper hitboxes\nMonitors now are toggled on/off without sneaking\nOpening the monitor GUI now requires you to sneak\nCameras, Monitors, Jammers, Drones, and Sound Blocks now use their localization for the default block name\nImproved the permission card script, not it uses just one tag\nPlayers using screwdrivers now require admin block permission to rotate the block.\nMade custom model and texture for the Sound Block\nSound Blocks have an on/off pixel to indicate the state\nBarbed Wire and Electric Fences no longer damage items.\nBarbed Wire is now seen as 'open' for pathfinding entities.\nFixed player in creative mode flying after exiting the camera view mode\nFixed monitor on/off display message\nFixed monitor GUI being able to be opened when the monitor was off\nFixed issue with the fence gates and double fence gates rotating when the block was clicked on the side.",
     "4.5.0": "Added custom buttons to the monitor screens\nThe monitor connection tab now shows camera tags eg. Jammed, On, or Off\nMonitor lights now indicate if the camera is on or off\nMonitor switches now indicate if the floppy slot is full or not\nCamera names can now be updated via the monitor\nJammers now show an on/off light depending on their state\nCompacted models for monitors, cameras, jammers, and chain fence types\nFixed the monitor screen name text\nFixed the monitor screen connection text\nFixed camera zoom for North, East, South-East and North-East directions\nFixed zoom-in issue with Noth-East for the ceiling camera\nFixed monitor GUI lights not unblinking when the camera is missing\nFixed camera view overlay camera name text\nFixed overlay for drone inventory slot item and slot number text\nFixed Name USB text field adding to the last input.",
-    "4.4.1": "Fixed a crash that happened only on the server-side when mining blocks with the drone.",
+    "4.4.1": "Fixed a crash that happened only on the server side when mining blocks with the drone.",
     "4.4.0": "Ported CCTV Craft to Minecraft 1.19.2"
   },
   "1.18.2": {
@@ -31,10 +33,10 @@
     "3.0.0": "Added three types of cameras and one type of monitor\nCameras can be linked to monitors.\nMonitors allow for the viewing of cameras\nAdded Remote Floppy used for an easy way to link cameras to monitors\nAdded Security Floppy used to manage permissions for the device\nAdded Action Floppy used to do tasks such as remove the block.\nAdded recipes and advancements" 
   },
   "promos": {
-    "1.19.4-latest": "4.6.1",
-    "1.19.4-recommended": "4.6.1",
-    "1.19.2-latest": "4.6.0",
-    "1.19.2-recommended": "4.6.0",
+    "1.19.4-latest": "4.6.3",
+    "1.19.4-recommended": "4.6.3",
+    "1.19.2-latest": "4.6.2",
+    "1.19.2-recommended": "4.6.2",
     "1.18.2-latest": "4.3.0",
     "1.18.2-recommended": "4.3.0",
     "1.17.1-latest": "4.1.0",
