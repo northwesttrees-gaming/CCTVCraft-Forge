@@ -1,5 +1,8 @@
 {
   "homepage": "https://www.northwesttreesgaming.com/mcmods/cctv-craft",
+  "1.20.1": {
+    "4.7.0": "Ported from 1.6.3 to Forge 1.20.1"
+  },
   "1.19.4": {
     "4.6.3": "Applied changes from 4.6.2\nPorted 4.6.2 to Forge 1.19.4",
     "4.6.1": "Ported 4.6.0 to 1.19.4",
@@ -33,6 +36,8 @@
     "3.0.0": "Added three types of cameras and one type of monitor\nCameras can be linked to monitors.\nMonitors allow for the viewing of cameras\nAdded Remote Floppy used for an easy way to link cameras to monitors\nAdded Security Floppy used to manage permissions for the device\nAdded Action Floppy used to do tasks such as remove the block.\nAdded recipes and advancements" 
   },
   "promos": {
+    "1.20.1-latest": "4.7.0",
+    "1.20.1-recommended": "4.7.0",
     "1.19.4-latest": "4.6.3",
     "1.19.4-recommended": "4.6.3",
     "1.19.2-latest": "4.6.2",
