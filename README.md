@@ -4,11 +4,11 @@ Whether you want to spy on your friend's house on a server or keep an eye on you
 
 # 🔗 Quick Links
 ### 📑 CCTVCraft GitHub
-- [Mod News](https://github.com/northwesttrees-gaming/CCTV-Craft/wiki/News)
-- [Mod Wiki](https://github.com/northwesttrees-gaming/CCTV-Craft/wiki)
-- [Planned Features](https://github.com/northwesttrees-gaming/CCTV-Craft/wiki/Planned-Features)
-- [Request Feature](https://github.com/northwesttrees-gaming/CCTV-Craft/issues/new?assignees=&labels=New%2CFeature&projects=&template=feature-request.yml&title=%5BFeature%5D+%3Ctitle%3E)
-- [Report Issue](https://github.com/northwesttrees-gaming/CCTV-Craft/issues/new?assignees=&labels=New%2CBug&projects=&template=bug-report.yml&title=%5BBug%5D+%3Ctitle%3E)
+- [Mod News](https://github.com/northwesttrees-gaming/CCTVCraft-Forge/wiki/News)
+- [Mod Wiki](https://github.com/northwesttrees-gaming/CCTVCraft-Forge/wiki)
+- [Planned Features](https://github.com/northwesttrees-gaming/CCTVCraft-Forge/wiki/Planned-Features)
+- [Request Feature](https://github.com/northwesttrees-gaming/CCTVCraft-Forge/issues/new?assignees=&labels=New%2CFeature&projects=&template=feature-request.yml&title=%5BFeature%5D+%3Ctitle%3E)
+- [Report Issue](https://github.com/northwesttrees-gaming/CCTVCraft-Forge/issues/new?assignees=&labels=New%2CBug&projects=&template=bug-report.yml&title=%5BBug%5D+%3Ctitle%3E)
 ### 🔗 CCTVCraft Mod Pages
 - [MCreator: Modification page](https://mcreator.net/modification/61192/cctv-craft)  
 - [CurseForge: Modification page](https://www.curseforge.com/minecraft/mc-mods/cctv-craft)
