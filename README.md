@@ -1,4 +1,4 @@
-![Banner](https://github.com/northwesttrees-gaming/CCTV-Craft/blob/main/Pages/Images/monitors.jpg)
+![Banner](https://github.com/northwesttrees-gaming/CCTVCraft-Forge/blob/main/Pages/Images/monitors.jpg)
 # About CCTV Craft
 Whether you want to spy on your friend's house on a server or keep an eye on your village, CCTV Craft will provide you the tools to watch whatever you want anywhere you want. We have used MCreator to make this complex mod from the ground up. NorthWestTrees Gaming maintains the mod. We currently have limited features but plan to add more content and release stable builds as the development goes on.
 
