@@ -14,8 +14,6 @@ Whether you want to spy on your friend's house on a server or keep an eye on you
 - [CurseForge: Modification page](https://www.curseforge.com/minecraft/mc-mods/cctv-craft)
 
 # 📊 Minecraft Support
-### 🦊 NeoForge (Planned)
-- NeoForge 1.20.1 | CCTVCraft 1.0.0
 ### 🔨 Minecraft Forge
 - Forge 1.20.1 | CCTVCraft 4.7.0
 - Forge 1.19.4 | CCTVCraft 4.5.1, 4.6.3
