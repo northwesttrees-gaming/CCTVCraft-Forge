@@ -15,7 +15,6 @@ Whether you want to spy on your friend's house on a server or keep an eye on you
 
 # 📊 Minecraft Support
 ### 🔨 Minecraft Forge
-- Forge 1.20.1 | CCTVCraft 4.7.0
 - Forge 1.19.4 | CCTVCraft 4.5.1, 4.6.3
 - Forge 1.19.2 | CCTVCraft 4.4.0, 4.4.1, 4.5.0, 4.6.0
 - Forge 1.18.2 | CCTVCraft 4.2.0, 4.2.1, 4.3.0
